@@ -1,12 +1,12 @@
-# _Epicodus Create a webpage to personalize a form letter Week 2_
+# _Epicodus Create a webpage to change the submit in UpperCase Week 2_
 
-#### _Create a Form Letter webpage using HTML,jQuery,Bootstrap and CSS, 03.27.2019_
+#### _Create a webpage to change the submit in UpperCase using HTML,jQuery,Bootstrap and CSS, 03.27.2019_
 
 #### _By**Sabrina M and Marguerite K**_
 
 ## Description
 
-_First Web Page HTML Review at Epicodus _
+_Web Page HTML at Epicodus _
 
 ## Setup/Installation Requirements
 
@@ -37,4 +37,4 @@ _jQuery_
 
 *This software is licenced under the MIT licence*
 
-Copyright (c) 2019 ** Sabrina Mand Marguerite K_**
+Copyright (c) 2019 ** Sabrina M and Marguerite K_**
